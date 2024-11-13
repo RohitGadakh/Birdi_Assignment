@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|d:\\dotnet\\dotnet_practice\\employeemanagemntsystem\\employeemanagemntsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|solutionrelative:employeemanagemntsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|d:\\dotnet\\dotnet_practice\\employeemanagemntsystem\\employeemanagemntsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|solutionrelative:employeemanagemntsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|d:\\dotnet\\dotnet_practice\\employeemanagemntsystem\\employeemanagemntsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|solutionrelative:employeemanagemntsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|d:\\dotnet\\dotnet_practice\\employeemanagemntsystem\\employeemanagemntsystem\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|solutionrelative:employeemanagemntsystem\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|d:\\dotnet\\dotnet_practice\\employeemanagemntsystem\\employeemanagemntsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|solutionrelative:employeemanagemntsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|d:\\dotnet\\dotnet_practice\\employeemanagemntsystem\\employeemanagemntsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1CECAA-A0A7-43C8-9A82-5B2887029F9D}|EmployeeManagemntSystem\\EmployeeManagemntSystem.csproj|solutionrelative:employeemanagemntsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagemntSystem\\Program.cs",
+              "ToolTip": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeManagemntSystem\\Program.cs",
+              "ViewState": "AgIAACwAAAAQZmZmZmYkwDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:15:16.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagemntSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeManagemntSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAACAMzMzMzMbwAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:57:31.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagemntSystem\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagemntSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T17:29:14.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagemntSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagemntSystem\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:41:52.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeManagemntSystem\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EmployeeManagemntSystem\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAMjMzMzMbwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T05:29:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagemntSystem\\Models\\Employee.cs",
+              "ToolTip": "D:\\DotNet\\dotnet_Practice\\EmployeeManagemntSystem\\EmployeeManagemntSystem\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagemntSystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAA8AAACAmpmZmZktwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T05:46:36.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
